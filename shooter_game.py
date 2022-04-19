@@ -6,6 +6,8 @@ from time import time as timer
 mixer.init()
 font.init()
 
+#коментарий новведений
+
 score = 0
 
 win_width = 700

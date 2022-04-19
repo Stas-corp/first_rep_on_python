@@ -11,7 +11,7 @@ font.init()
 score = 0
 
 win_width = 700
-win_height = 500
+win_height = 600
 mw = display.set_mode((win_width, win_height))
 backround =  transform.scale(image.load('galaxy.jpg'), (win_width,win_height))
 mw.blit(backround, (0,0))

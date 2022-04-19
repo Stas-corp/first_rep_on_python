@@ -7,7 +7,7 @@ mixer.init()
 font.init()
 
 #коментарий новведений
-
+#ещё коменты
 score = 0
 
 win_width = 700
